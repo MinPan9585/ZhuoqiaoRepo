@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Parkour & Climbing AI/Demo/Demo Scene 1/Parkour AI Demo 1.unity
+    guid: 2c0424146e7a1374ba084a185d723a03
+  - enabled: 0
+    path: Assets/Scenes/Mobile controller.unity
+    guid: 9510744f50beccf4d861c06e9878e52d
+  - enabled: 0
+    path: Assets/Parkour & Climbing System/Demo/Demo Scene 2/Demo Scene 2.unity
+    guid: 2873487cc7bff9f4abab495b1bc8adbd
+  - enabled: 0
+    path: Assets/Demo/Demo 3.unity
+    guid: 7b897294390afff4c9d92a251eeaf45d
+  - enabled: 0
+    path: Assets/Parkour & Climbing System/Demo/Demo Scene 1/DemoScene.unity
+    guid: c3c5a1a8c9c679046886c33383b89b00
+  - enabled: 0
+    path: Assets/Demo/DemoScene WebGL.unity
+    guid: b3dfcf62856f90f43b05be05bd657323
+  - enabled: 0
+    path: Assets/Demo/Parkour AI Demo.unity
+    guid: 2997f164e377a1f45a6bb5e30ece08cc
+  m_configObjects: {}
