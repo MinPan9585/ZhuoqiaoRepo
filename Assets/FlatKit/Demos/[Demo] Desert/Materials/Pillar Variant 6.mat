@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Pillar Variant 6
-  m_Shader: {fileID: -6465566751694194690, guid: 4f03e090f823e194a8710fe149803097,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 4f03e090f823e194a8710fe149803097, type: 3}
   m_Parent: {fileID: 2100000, guid: eac1e3160e2fd6e4ea5c7177ce616e84, type: 2}
   m_ModifiedSerializedProperties: 2
   m_ValidKeywords:
@@ -29,12 +28,12 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats: []
+    m_Floats:
+    - _TopSize: 0.62
     m_Colors:
-    - _NoiseScale1: {r: 1, g: -63.01, b: 0, a: 0}
-    - _NoiseScale2: {r: 0.41, g: -4.08, b: 0.013, a: 0}
+    - _NoiseScale1: {r: -1.9, g: -63.01, b: 0, a: 0}
+    - _NoiseScale2: {r: 0.41, g: -4.08, b: 0.53, a: 0}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1
 --- !u!114 &270140708419882468
 MonoBehaviour:
   m_ObjectHideFlags: 11

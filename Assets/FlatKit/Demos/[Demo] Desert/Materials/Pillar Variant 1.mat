@@ -21,8 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Pillar Variant 1
-  m_Shader: {fileID: -6465566751694194690, guid: 4f03e090f823e194a8710fe149803097,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 4f03e090f823e194a8710fe149803097, type: 3}
   m_Parent: {fileID: 2100000, guid: eac1e3160e2fd6e4ea5c7177ce616e84, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -45,9 +44,9 @@ Material:
     m_Floats:
     - _ScaleFactor: 1
     - _TYPE: 2
+    - _TopSize: 0.76
     m_Colors:
     - _Distribution: {r: -0.13, g: 0.33, b: 0, a: 0}
     - _NoiseScale1: {r: 1, g: -54.15, b: 0, a: 0}
     - _NoiseScale2: {r: 0.41, g: -0.32, b: 0.07, a: 0}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1
