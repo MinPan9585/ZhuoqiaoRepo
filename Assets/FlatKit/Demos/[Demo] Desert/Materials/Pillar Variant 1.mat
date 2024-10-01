@@ -43,10 +43,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _ScaleFactor: 1
+    - _ShadowSize: 0.577
     - _TYPE: 2
     - _TopSize: 0.76
     m_Colors:
     - _Distribution: {r: -0.13, g: 0.33, b: 0, a: 0}
-    - _NoiseScale1: {r: 1, g: -54.15, b: 0, a: 0}
-    - _NoiseScale2: {r: 0.41, g: -0.32, b: 0.07, a: 0}
+    - _NoiseScale1: {r: 1, g: -1.45, b: 0, a: 0}
+    - _NoiseScale2: {r: -0.4, g: -0.2, b: 0.07, a: 0}
   m_BuildTextureStacks: []

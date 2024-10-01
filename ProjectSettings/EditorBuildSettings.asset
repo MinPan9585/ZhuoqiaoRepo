@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Parkour & Climbing AI/Demo/Demo Scene 1/Parkour AI Demo 1.unity
     guid: 2c0424146e7a1374ba084a185d723a03
   - enabled: 0
