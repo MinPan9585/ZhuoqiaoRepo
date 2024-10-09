@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: d068f4e96756df84e847a493ed313495
+timeCreated: 1549270992
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: jtBn_frontFace
+    100002: jtBn_l_ankle
+    100004: jtBn_l_arm
+    100006: jtBn_l_elbow
+    100008: jtBn_l_hip
+    100010: jtBn_l_index1
+    100012: jtBn_l_index2
+    100014: jtBn_l_knee
+    100016: jtBn_l_little1
+    100018: jtBn_l_little2
+    100020: jtBn_l_mid_1
+    100022: jtBn_l_mid_2
+    100024: jtBn_l_thumb1
+    100026: jtBn_l_thumb2
+    100028: jtBn_l_twist
+    100030: jtBn_LeftFace
+    100032: jtBn_neck
+    100034: jtBn_r_ankle
+    100036: jtBn_r_arm
+    100038: jtBn_r_elbow
+    100040: jtBn_r_hip
+    100042: jtBn_r_index1
+    100044: jtBn_r_index2
+    100046: jtBn_r_knee
+    100048: jtBn_r_little1
+    100050: jtBn_r_little2
+    100052: jtBn_r_mid_1
+    100054: jtBn_r_mid_2
+    100056: jtBn_r_thumb1
+    100058: jtBn_r_thumb2
+    100060: jtBn_r_twist
+    100062: jtBn_RightFace
+    100064: jtBn_Spline_02
+    100066: jtBn_Spline_03
+    100068: jtBn_Spline_1
+    100070: jtBn_SplineRoot
+    100072: //RootNode
+    100074: TreeGolem1
+    400000: jtBn_frontFace
+    400002: jtBn_l_ankle
+    400004: jtBn_l_arm
+    400006: jtBn_l_elbow
+    400008: jtBn_l_hip
+    400010: jtBn_l_index1
+    400012: jtBn_l_index2
+    400014: jtBn_l_knee
+    400016: jtBn_l_little1
+    400018: jtBn_l_little2
+    400020: jtBn_l_mid_1
+    400022: jtBn_l_mid_2
+    400024: jtBn_l_thumb1
+    400026: jtBn_l_thumb2
+    400028: jtBn_l_twist
+    400030: jtBn_LeftFace
+    400032: jtBn_neck
+    400034: jtBn_r_ankle
+    400036: jtBn_r_arm
+    400038: jtBn_r_elbow
+    400040: jtBn_r_hip
+    400042: jtBn_r_index1
+    400044: jtBn_r_index2
+    400046: jtBn_r_knee
+    400048: jtBn_r_little1
+    400050: jtBn_r_little2
+    400052: jtBn_r_mid_1
+    400054: jtBn_r_mid_2
+    400056: jtBn_r_thumb1
+    400058: jtBn_r_thumb2
+    400060: jtBn_r_twist
+    400062: jtBn_RightFace
+    400064: jtBn_Spline_02
+    400066: jtBn_Spline_03
+    400068: jtBn_Spline_1
+    400070: jtBn_SplineRoot
+    400072: //RootNode
+    400074: TreeGolem1
+    2100000: lambert2
+    4300000: TreeGolem1
+    9500000: //RootNode
+    13700000: TreeGolem1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
