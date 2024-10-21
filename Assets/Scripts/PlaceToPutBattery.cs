@@ -19,7 +19,7 @@ public class PlaceToPutBattery : MonoBehaviour
                 else
                 {
                     ballPos.GetChild(0).gameObject.SetActive(false);
-                    GetComponent<MeshRenderer>().enabled = true;
+                    transform.GetChild(0).GetComponent<MeshRenderer>().enabled = true;
                     anim.SetTrigger("OpenDoorTwo");
                 }
             }

@@ -24,9 +24,6 @@ public class Talk : MonoBehaviour
                 }
             }
         }
-        
-
-        
     }
 
     private void Update()
